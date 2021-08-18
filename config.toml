@@ -1,4 +1,17 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://herringinformationsystems.tech/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Herring Information Systems'
 theme = 'hugograyscale'
+#googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "Providing Information System Services from Conceptualization to Implementation and beyond"
+
+[Author]
+    name = "Sam Herring"
+    email = "samherring@herringinformationsystems.tech"
+
+[Social]
+    twitter = "@CapnSammeh"
