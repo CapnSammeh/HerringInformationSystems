@@ -1,4 +1,4 @@
-baseURL = 'http://herringinformationsystems.tech/'
+baseURL = 'https://herringinformationsystems.tech/'
 languageCode = 'en-us'
 title = 'Herring Information Systems'
 theme = 'hugograyscale'
