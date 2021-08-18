@@ -1,11 +1,9 @@
 ---
-title: "Links"
+title: "Services"
 weight: 3
 improvecontrast: true
 ---
 
-## Download Grayscale
+## Services
 
-You can download Grayscale for free from the Github page.
-
-{{< big-button text="Visit Download Page" href="https://github.com/runningstream/hugograyscale/" >}}
+*Coming Soon*

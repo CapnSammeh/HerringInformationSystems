@@ -11,7 +11,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [Author]
     name = "Sam Herring"
-    email = "samherring@herringinformationsystems.tech"
+    email = "info@herringinformationsystems.tech"
 
 [Social]
     twitter = "@CapnSammeh"
